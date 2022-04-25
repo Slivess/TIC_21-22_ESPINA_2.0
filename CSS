@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<head>
+<link rel="stylesheet" href="mystyle.css">
+</head>
+
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+<style>
+body {
+  background-image: url("img_tree.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: scroll;
+}
+
+body {
+  background-image: url("img_tree.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+body {
+  background-image: url("gradient_bg.png");
+  background-repeat: repeat-x;
+}
+body {
+  background-image: url("gradient_bg.png");
+  background-repeat: repeat-x;
+}
+body {
+  background-image: url("gradient_bg.png");
+}
+body {
+  background-image: url("paper.gif");
+}
+
+* {
+  text-align: center;
+  color: blue;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  color: red;
+  text-align: center;
+  opacity: 0.3;
+}
+
+</style>
+</head>
+<body>
+<h1 style="background-color:rgba(255, 99, 71, 0.1567);">...</h1>
+<h1 style="background-color:#ff6347;">...</h1>
+<h1 style="background-color:hsl(9, 100%, 64%);">...</h1>
+
+<h1 style="background-color:rgba(255, 99, 71, 0.5);">...</h1>
+<h1 style="background-color:hsla(9, 100%, 64%, 0.5);">...</h1>
+
+<h1 style="border:2px solid Tomato;">Hello World</h1>
+<h1 style="border:2px solid DodgerBlue;">Hello World</h1>
+<h1 style="border:2px solid Violet;">Hello World</h1>
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<p style="background-color:Tomato;">Lorem ipsum...</p>
+<h1>My First CSS Example</h1> 
+<p>This is a paragraph.</p>
+
+<p class="center large">This paragraph refers to two classes.</p>
+
+</body>
+</html>
