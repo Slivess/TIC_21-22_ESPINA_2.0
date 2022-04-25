@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<body>
+
+<!-- HE LLEGADO HASTA IMAGES; IMAGE MAP -->
+
+<p style="color:Black;">That´s not blacK</p>
+
+<h1 style="background-color:tomato;">This is a heading</h1>
+<p style="background-color:green;">This is a paragraph.</p>
+</body>
+
+<img src="workplace.jpg" alt="Workplace" usemap="#workmap">
+
+<map name="workmap">
+  <area shape="rect" coords="34,44,270,350" alt="Computer" href="https://es.wikipedia.org/wiki/Computadora">
+  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
+  <area shape="circle" coords="337,300,44" alt="Coffee" href="coffee.htm">
+
+<area shape="poly" coords="140,121,181,116,204,160,204,222,191,270,140,329,85,355,58,352,37,322,40,259,103,161,128,147" alt="Croissant" href="croissant.htm">
+
+<!---EN CUADRADOS LOS 2 PRIMEROS NUMEROS SON LA ESQUINA SUPERIOR IZQUIERDA Y LA SEGUNDA LOS DE ABAJO DERECHA
+
+EN UN CIRCULO LOS 2 PRIMEROS SON EL CENTRO Y EL TERCERO EL RADIO--->
+  
+</map>
+
+<style>
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+
+<!--<h id="C4">Chapter 4<br></h>
+<h href="#C4">Jump to Chapter 4<br></h>
+<h href="NOMBRE PAGINA#C4">Jump to Chapter 4<br></h>-->
+
+
+<!--<link rel="stylesheet" 
+href="/html/styles.css">-->
+<a href="url">https://www.w3schools.com/html/tryit.asp?filename=tryhtml_formatting_intro<br></a>
+
+<a href="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_formatting_intro">Visit me<br></a>
+
+<button onclick="document.location='default.asp'">HTML Tutrial</button>
+
+<body style="background-color:powderblue;">
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+</body>
+
+<h1 style="font-family:verdana;">This is a heading</h1>
+<p style="font-family:courier;">This is a paragraph.</p>
+<h1 style="text-align:center;">Centered Heading</h1>
+<p style="text-align:center;">Centered paragraph.</p>
+
+<title>Page Title</title>
+</head>
+<body>
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<p style="color:red;">This is a red paragraph.</p>
+<p style="color:green;">This is a green paragraph.</p>
+<a href="https://www.w3schools.com">Visit this link.</a>
+<img src="https://assets.pokemon.com/static2/_ui/img/og-default-image.jpeg" alt="W3Schools.com" width="270" height="270">
+
+<p title="I'm a tooltip">This is a paragraph.</p>
+<p title="John">adhkjjyhfjhfhdfhy</p>
+
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h1 style="font-size:60px;">Heading 1</h1>
+<h1>This is heading 1</h1>
+<p>This is some text.</p>
+<hr>
+<h2>This is heading 2</h2>
+<p>This is some other text.</p>
+<hr>
+<p>This is<br>a paragraph<br>with line breaks.</p>
+
+<pre>Tipo de letra raro</pre>
+
+<b> - Bold text<br>	</b>			
+<strong> - Important text<br> </strong>
+<i> - Italic text<br> </i> 
+<em> - Emphasized text<br> </em>
+<mark> - Marked text<br> </mark>
+<small> - Smaller text<br> </small>
+<del> - Deleted text<br> </del>
+<ins> - Inserted text<br> </ins>
+<h>HOLI<sub> - Subscript text<br> </sub> HOLI</h>
+<sup> - Superscript text<br> </sup>
+
+<p>Here is a quote from WWF's website:</p>
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+For 50 years, WWF has been protecting the future of nature.
+The world's leading conservation organization,
+WWF works in 100 countries and is supported by
+1.2 million members in the United States and
+close to 5 million globally.
+</blockquote>
+<p>WWF's goal is to: <q>Build a future where people live in harmony with nature.</q></p>
+
+<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
+
+<p><cite>The Scream</cite> by Edvard Munch. Painted in 1893.</p>
+
+<bdo dir="rtl">This text will be written from right to left<br></bdo>
+
+<!--<p>Comentario</p>-->
+
+<p style="border:5px solid tomato;">Halo<br></p>
+
+<p style="color:Tomato;">Tomato</p>
+<p style="color:Orange;">Orange</p>
+<p style="color:DodgerBlue;">DodgerBlue</p>
+<p style="color:MediumSeaGreen;">MediumSeaGreen</p>
+<p style="color:Gray;">Gray</p>
+<p style="color:SlateBlue;">SlateBlue</p>
+<p style="color:Violet;">Violet</p>
+<p style="color:LightGray;">LightGray</p>
+
+</body>
+</html>
