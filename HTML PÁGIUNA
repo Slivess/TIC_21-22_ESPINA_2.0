@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang=en>
+<style>
+th, td {
+	padding-right: 40px;
+}
+</style>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<style>
+</style>
+<body style="background-color:powderblue;">
+<h1 style="background-color:white;font-size:60px;text-align:center;font-family:impact;">***CARTAS ESPINA***</h1>
+<ins style="font-size:30px">Esta es la lista de cartas:</ins>
+<table>
+  <tr>
+    <td style="background-color: pink">CREATURES</td>
+    <td style="background-color: pink"style="background-color: pink">SPELLS</td>
+    <td style="background-color: pink">ARTIFCTS</td>
+    <td style="background-color: pink">LANDS</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/War-of-the-Spark/Arboreal-Grazer"> 4	Arboreal Grazer   </td>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Time-Spiral-Remastered/Summoners-Pact"> 4	Summoner's Pact  </td>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Secret-Lair-Drop-Series/Amulet-of-Vigor"> 4	Amulet of Vigor  </td>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Ravnica-City-of-Guilds/Boros-Garrison"> 1	Boros Garrison  </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Core-Set-2021/Azusa-Lost-but-Seeking">1	Azusa, Lost but Seeking</td>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Worldwake/Explore">4	Explore</td>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Double-Masters/Expedition-Map">1	Expedition Map</td>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Kamigawa-Neon-Dynasty/Boseiju-Who-Endures">2	Boseiju, Who Endures</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Time-Spiral-Remastered-Extras/Primeval-Titan">4	Primeval Titan</td>
+    <td></td>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Shards-of-Alara/Relic-of-Progenitus">1	Relic of Progenitus</td>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Throne-of-Eldraine/Castle-Garenbrig">2	Castle Garenbrig</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Innistrad-Crimson-Vow/Cultivator-Colossus">2	Cultivator Colossus</td>
+    <td></td>
+    <td></td>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Avacyn-Restored/Cavern-of-Souls">2	Cavern of Souls</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Kamigawa-Neon-Dynasty/Forest-V2">4	Forest</td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Guildpact/Gruul-Turf">2	Gruul Turf</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Core-Set-2021/Radiant-Fountain">1	Radiant Fountain</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Commander-Innistrad-Midnight-Hunt/Selesnya-Sanctuary">2	Selesnya Sanctuary</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Commander-Ikoria/Simic-Growth-Chamber">4	Simic Growth Chamber</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Commander-Strixhaven/Slayers-Stronghold">1	Slayers' Stronghold</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Commander-Strixhaven/Sunhome-Fortress-of-the-Legion">1	Sunhome, Fortress of the Legion</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Time-Spiral-Remastered/Tolaria-West">2	Tolaria West</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Modern-Horizons-2/Urzas-Saga">4	Urza's Saga</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Zendikar/Valakut-the-Molten-Pinnacle">2	Valakut, the Molten Pinnacle</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><a href="https://www.cardmarket.com/es/Magic/Products/Singles/Time-Spiral-Remastered/Vesuva">1	Vesuva</td>
+  </tr>
+</table>
+<h1 style="font-size:20px">LinK a tutorial en la imagen</h1>
+<img src="https://i0.wp.com/ancestralgames.com.mx/wp-content/uploads/2021/03/dee830f7-primeval-titan-art.jpg?fit=1280%2C935&ssl=1" alt="CARTA LAMENTABLE CHECK" width="256" height="187" usemap="#workmap">
+<map name="workmap">
+  <area shape="rect" coords="0,0,256,187" alt="Computer" href="https://www.youtube.com/watch?v=5Cq46K2WQwQ">
+<p><cite>Primeval Titan</cite> by AleKsi Briclot.</p>
+<h2 style="text-align:center">_-_-_-_SOBRE EL AUTOR_-_-_-_</h2>
+<img src="data:image/jpeg;base64,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"alt="CARTA LAMENTABLE CHECK" width="178" weight="234"</img>
+<h3>Nacido en Zaragoza 2004</h3>
+<h3><a href="https://ne-np.facebook.com/alejandro.espinanavarro.1">FacebooK de Alejandro</h3>
+<h3><a href="https://elpais.com/cultura/2016/03/12/actualidad/1457798247_650062.html">Lo más reciente de Alejandro</h3>
+</body>
+</html>
